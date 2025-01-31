@@ -740,12 +740,12 @@
 
 <phrase>
 <original>Shift colors (left)</original>
-<translation>Barvy posunu (vlevo)</translation>
+<translation>Posun barev (vlevo)</translation>
 </phrase>
 
 <phrase>
 <original>Shift colors (right)</original>
-<translation>Barvy posunu (vpravo)</translation>
+<translation>Posun barev (vpravo)</translation>
 </phrase>
 
 <phrase>
@@ -985,7 +985,7 @@
 
 <phrase>
 <original>Squish</original>
-<translation>Mačkané</translation>
+<translation>Zkosení</translation>
 </phrase>
 
 <phrase>
@@ -1185,7 +1185,7 @@
 
 <phrase>
 <original>Truchet</original>
-<translation>Změnit velikost výběru</translation>
+<translation>Grafický vzor</translation>
 </phrase>
 
 <phrase>
@@ -1195,7 +1195,7 @@
 
 <phrase>
 <original>Unsharp mask</original>
-<translation>Rozostřít masku</translation>
+<translation>Maskovat neostrost</translation>
 </phrase>
 
 <phrase>
@@ -1811,7 +1811,7 @@ Tento obrázek obsahuje %2 jedinečných hodnot barev + krytí (RGBA).</translat
 
 <phrase>
 <original>Shift</original>
-<translation>Posun</translation>
+<translation>Shift</translation>
 </phrase>
 
 <!-- Hotkeys.bas contains 18 phrases. 9 were duplicates of existing phrases, so only 9 new phrases were written to file. -->
@@ -5828,7 +5828,7 @@ Konečná hodnota musí být mezi %3 a %4.</translation>
 
 <phrase>
 <original>Snap</original>
-<translation>Zlomit</translation>
+<translation>Zlom</translation>
 </phrase>
 
 <phrase>
@@ -5855,17 +5855,17 @@ Konečná hodnota musí být mezi %3 a %4.</translation>
 
 <phrase>
 <original>Angle 90</original>
-<translation></translation>
+<translation>Úhel 90</translation>
 </phrase>
 
 <phrase>
 <original>Angle 45</original>
-<translation></translation>
+<translation>Úhel 45</translation>
 </phrase>
 
 <phrase>
 <original>Angle 30</original>
-<translation></translation>
+<translation>Úhel 30</translation>
 </phrase>
 
 <phrase>
@@ -8575,7 +8575,7 @@ Pokud jej chcete uložit pod jiným názvem souboru, vyberte 'Zrušit' a poté p
 
 <phrase>
 <original>random seed</original>
-<translation>náhodné semeno</translation>
+<translation>náhodný výběr</translation>
 </phrase>
 
 <phrase>
@@ -9168,7 +9168,7 @@ Pokud jej chcete uložit pod jiným názvem souboru, vyberte 'Zrušit' a poté p
 
 <phrase>
 <original>twist edges</original>
-<translation>Ovist hrany
+<translation>Zkroucení hrany
 </translation>
 </phrase>
 
